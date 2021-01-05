@@ -1,6 +1,6 @@
 # Ethereum-Twitter-Bot
 
-## View live version:
+## Live Version:
 
 This bot can be seen live at @EtherPriceAlert (https://twitter.com/EtherPriceAlert)
 
@@ -8,9 +8,7 @@ This bot can be seen live at @EtherPriceAlert (https://twitter.com/EtherPriceAle
 
 Twitter bot: Updates followers with Ethereum price, market cap and volume every three hours (data taken from coingecko).
 
-      pip install tweepy
-
-## How to use:
+## How To Use:
 
 First install tweepy:
 
