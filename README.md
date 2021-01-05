@@ -3,4 +3,8 @@ Twitter bot: Updates followers with Ethereum price, market cap and volume every 
 
       pip install tweepy
 
-Note: Change the keys in api_key.py to your own developer account keys.
+## How to use:
+
+To make this bot run on your own twitter account change the keys in api_key.py to your own developer account keys.
+
+
