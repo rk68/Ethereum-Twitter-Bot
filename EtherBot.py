@@ -43,7 +43,7 @@ def tweet_eth_price():
     print("Tweet posted successfully!")
 
     # Sleep for 3 hours
-    time.sleep(3*60*60)
+    time.sleep(5*60*60)
 
     return print(message)
 
